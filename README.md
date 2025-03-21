@@ -4,7 +4,9 @@ https://refactoringguru.cn/design-patterns
 
 https://sourcemaking.com/design_patterns
 
-https://www.patterns.dev/vanilla/
+https://www.patterns.dev/vanilla
+
+https://gameprogrammingpatterns.com/contents.html
 
 # mysql
 
