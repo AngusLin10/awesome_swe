@@ -1,5 +1,12 @@
+# design pattern
+
+https://refactoringguru.cn/design-patterns
+
+https://sourcemaking.com/design_patterns
+
+https://www.patterns.dev/vanilla/
+
 # mysql
-MySQL 學習資源
 
 《MySQL 是怎样使用的：从零蛋开始学习 MySQL》
 https://www.itshujia.com/books/msyql
