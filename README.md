@@ -18,5 +18,5 @@ https://www.itshujia.com/books/msyql
 《MySQL 是怎样运行的：从根儿上理解 MySQL》
 https://www.itshujia.com/books/mysql
 
-＃ other resources
+# other resources
 https://www.explainthis.io/zh-hant/pinthis
