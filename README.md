@@ -1,6 +1,7 @@
 # design pattern
 
-https://refactoringguru.cn/design-patterns
+https://refactoring.guru/design-patterns 
+(中文: https://refactoringguru.cn/design-patterns)
 
 https://sourcemaking.com/design_patterns
 
