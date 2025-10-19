@@ -1,3 +1,7 @@
+# AI chat
+
+cto.new
+
 # design pattern
 
 https://refactoring.guru/design-patterns 
