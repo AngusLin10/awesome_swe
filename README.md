@@ -1,8 +1,11 @@
-# AI chat
+＃ C++ Data Structures
+https://simplifycpp.org/books/essential_data_structures_for_cpp_programmers.pdf
+
+# AI Chat
 
 cto.new
 
-# design pattern
+# Design Pattern
 
 https://refactoring.guru/design-patterns 
 
@@ -14,7 +17,7 @@ https://www.patterns.dev/vanilla
 
 https://gameprogrammingpatterns.com/contents.html
 
-# mysql
+# MySQL
 
 《MySQL 是怎样使用的：从零蛋开始学习 MySQL》
 https://www.itshujia.com/books/msyql
@@ -22,5 +25,5 @@ https://www.itshujia.com/books/msyql
 《MySQL 是怎样运行的：从根儿上理解 MySQL》
 https://www.itshujia.com/books/mysql
 
-# other resources
+# Other resources
 https://www.explainthis.io/zh-hant/pinthis
