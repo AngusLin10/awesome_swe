@@ -1,6 +1,3 @@
-＃ C++ Data Structures
-https://simplifycpp.org/books/essential_data_structures_for_cpp_programmers.pdf
-
 # AI Chat
 
 cto.new
