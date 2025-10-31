@@ -2,6 +2,9 @@
 
 cto.new
 
+# OOD
+https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html
+
 # Design Pattern
 
 https://refactoring.guru/design-patterns 
