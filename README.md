@@ -3,6 +3,7 @@
 cto.new
 
 # OOD
+https://www.jiakaobo.com/ood.html
 https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html
 
 # Design Pattern
