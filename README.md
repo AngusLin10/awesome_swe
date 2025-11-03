@@ -1,6 +1,9 @@
 # AI Chat
 
-cto.new
+https://cto.new
+
+# 八股文
+https://notes.kamacoder.com/bagu
 
 # OOD
 https://www.jiakaobo.com/ood.html
