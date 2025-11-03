@@ -18,6 +18,10 @@ https://www.patterns.dev/vanilla
 
 https://gameprogrammingpatterns.com/contents.html
 
+＃ System Design
+
+https://www.jiakaobo.com/system_design.html
+
 # MySQL
 
 《MySQL 是怎样使用的：从零蛋开始学习 MySQL》
