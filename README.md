@@ -18,7 +18,7 @@ https://www.patterns.dev/vanilla
 
 https://gameprogrammingpatterns.com/contents.html
 
-＃ System Design
+# System Design
 
 https://www.jiakaobo.com/system_design.html
 
