@@ -8,8 +8,7 @@ https://notes.kamacoder.com/bagu
 # OOD
 https://www.jiakaobo.com/ood.html
 https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html
-  ## Design a parking lot
-  https://bytebytego.com/courses/object-oriented-design-interview/design-a-parking-lot
+## Design a parking lot https://bytebytego.com/courses/object-oriented-design-interview/design-a-parking-lot
 
 # Design Pattern
 
