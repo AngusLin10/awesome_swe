@@ -3,12 +3,15 @@
 https://cto.new
 
 # 八股文
+
 https://notes.kamacoder.com/bagu
 
 # OOD
+
 https://www.jiakaobo.com/ood.html
 https://www.sartiano.it/marco/diigo/System%20Design/Grokking%20the%20Object%20Oriented%20Design%20Interview.html
-## Design a parking lot https://bytebytego.com/courses/object-oriented-design-interview/design-a-parking-lot
+### 深入淺出物件導向分析與設計 https://hackmd.io/@RusselCK/OOAD_Note/%2FGuDYCJqmT6uAQ3kg7JqIUA
+### Design a parking lot https://bytebytego.com/courses/object-oriented-design-interview/design-a-parking-lot
 
 # Design Pattern
 
@@ -25,6 +28,10 @@ https://gameprogrammingpatterns.com/contents.html
 # System Design
 
 https://www.jiakaobo.com/system_design.html
+
+# Linux
+
+https://hackmd.io/@sysprog/linux-comic
 
 # MySQL
 
