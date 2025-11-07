@@ -25,6 +25,8 @@ https://www.patterns.dev/vanilla
 
 https://gameprogrammingpatterns.com/contents.html
 
+https://openhome.cc/zh-tw/pattern
+
 # System Design
 
 https://www.jiakaobo.com/system_design.html
