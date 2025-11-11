@@ -35,6 +35,10 @@ https://www.jiakaobo.com/system_design.html
 
 https://hackmd.io/@sysprog/linux-comic
 
+# Redis (C/C++)
+
+https://build-your-own.org/redis/
+
 # MySQL
 
 《MySQL 是怎样使用的：从零蛋开始学习 MySQL》
