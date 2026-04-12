@@ -2,6 +2,10 @@
 
 https://cto.new
 
+＃ GPU 架構
+
+https://jaso1024.com/mvidia/
+
 # 八股文
 
 https://notes.kamacoder.com/bagu
