@@ -1,7 +1,3 @@
-# AI Chat
-
-https://cto.new
-
 ＃ GPU 架構
 
 https://jaso1024.com/mvidia/
