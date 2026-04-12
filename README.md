@@ -1,4 +1,4 @@
-＃ GPU 架構
+# GPU 架構
 
 https://jaso1024.com/mvidia/
 
