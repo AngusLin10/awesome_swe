@@ -12,7 +12,7 @@ https://backend-from-first-principle.vercel.app/
 
 # 八股文
 
-https://notes.kamacoder.com/bagu
+[https://notes.kamacoder.com/bagu](https://notes.kamacoder.com/)
 
 # OOD
 
